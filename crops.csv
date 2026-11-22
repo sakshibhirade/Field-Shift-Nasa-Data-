@@ -1,0 +1,8 @@
+﻿crop,name_kn,season,days_to_harvest,water_level,water_confidence,legume,root_depth_m,soil_notes,source
+soybean,ಸೋಯಾಬೀನ್,kharif,100-130,medium,confirmed,yes,1.5,needs drainage; waterlogging hurts; medium-deep black soil in rotations,S1 S8
+maize,ಮೆಕ್ಕೆಜೋಳ,kharif,80-140,high,confirmed,no,1.0,well-drained; waterlogging at flowering can cut grain 50 percent or more,S2 S8
+green_gram,ಹೆಸರುಕಾಳು,kharif,60-70,medium,not_sure,yes,not_found,well-drained sandy loam,S6
+black_gram,ಉದ್ದು,kharif,71-129,medium,not_sure,yes,not_found,deep light loam; tolerates more moisture than green gram,S6
+chickpea,ಕಡಲೆ,rabi,90-120,medium,not_sure,yes,1.0-2.0,medium-deep black soil in maize-chickpea rotation; runs on stored soil moisture,S5 S8
+rabi_jowar,ಹಿಂಗಾರಿ ಜೋಳ,rabi,110-120,medium,confirmed,no,2.0,medium to deep soils; black soil in Dharwad rotations,S7 S8
+wheat,ಗೋಧಿ,rabi,100-130,medium,confirmed,no,0.9-1.5,medium-textured soil; mostly rainfed in Dharwad,S4 S8

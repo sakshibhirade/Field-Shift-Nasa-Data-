@@ -1,0 +1,7 @@
+﻿previous_crop,next_crop,soil,evidence,source,confidence
+maize,chickpea,black,Listed as a common system on black soil in the UAS Dharwad plan; called suitable for irrigated northern Karnataka in the introduction of a 2014 UAS paper,S8 S11,confirmed
+soybean,rabi_jowar,black,Listed as a common rainfed system on medium-deep black soil in the UAS Dharwad plan,S8 S7,confirmed
+green_gram,rabi_jowar,black,Listed as a common system on medium-deep black soil in the UAS Dharwad plan,S8 S7,confirmed
+green_gram,wheat,black,Listed as a common system on medium-deep black soil in the UAS Dharwad plan,S8,confirmed
+black_gram,rabi_jowar,black,An ICAR sorghum guide advises a pulse such as black gram before rabi sorghum where practical,S7,not_sure
+soybean,chickpea,black,UAS Dharwad trial 2005-07: soil fertility improved; also advised under limited irrigation at Rahuri; yield not clearly best,S10 S15,confirmed
